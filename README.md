@@ -1,3 +1,4 @@
 # IDEA
-目前最好的Java开发IDE，需要进行破解
-  破解方式具体参考lanyun
+开发Java，IDE首选，不止用来开发Java
+jetbrains公司出品，需破解
+https://www.jetbrains.com/idea/
